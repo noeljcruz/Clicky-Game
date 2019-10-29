@@ -60,7 +60,7 @@ class App extends Component {
           score={this.state.score}
           topScore={this.state.topScore}
         />
-        <div className="flags-container">
+        <div className="poke-container">
           {this.state.pokemon.map(item => (
             <Card
               country={item.country}

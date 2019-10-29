@@ -2,13 +2,15 @@
   text-align: center;
 }
 
-.flags-container {
+.poke-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  background-color: rgba(248, 248, 248, 0.6);
+  margin-top: 35px;
 }
 
-.flags-subcontainer {
+.poke-subcontainer {
   width: 20%; 
   font-family: 'Raleway', sans-serif;
   display: flex;
@@ -17,20 +19,15 @@
   align-items: center;
 } 
 
+.poke-subcontainer h3 {
+  font-family: 'DM Serif Text', serif;
+  font-size: 18px;
+}
+
 .images {
   width: 50%;
   padding-bottom: 40px;
 } 
-
-.flags-container {
-  background-color: rgba(248, 248, 248, .9);
-  margin-top: 35px;
-}
-
-.flags-subcontainer h3 {
-  font-family: 'DM Serif Text', serif;
-  font-size: 18px;
-}
 
 .title {
   font-family: 'DM Serif Text', serif;
@@ -55,4 +52,3 @@
   text-align: center;
   padding-bottom: 15px;
 }
-
