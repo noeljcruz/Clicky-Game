@@ -1,77 +1,77 @@
 [
     {
         "id": 1,
-        "img": "./images/AM-flag.gif",
-        "country": "Armenia"
+        "img": "./images/bulbasaur.png",
+        "country": "Bulbasaur"
     },
     {
         "id": 2,
-        "img": "./images/AR-flag.gif",
-        "country": "Argentina"
+        "img": "./images/butterfree.png",
+        "country": "Butterfree"
     },
     {
         "id": 3,
-        "img": "./images/AS-flag.gif",
-        "country": "Australia"
+        "img": "./images/charmander.png",
+        "country": "Charmander"
     },
     {
         "id": 4,
-        "img": "./images/BK-flag.gif",
-        "country": "Bosnia"
+        "img": "./images/dragonite.png",
+        "country": "Dragonite"
     },
     {
         "id": 5,
-        "img": "./images/BT-flag.gif",
-        "country": "Bhutan"
+        "img": "./images/eevee.png",
+        "country": "Eevee"
     },
     {
         "id": 6,
-        "img": "./images/CA-flag.gif",
-        "country": "Canada"
+        "img": "./images/gengar.png",
+        "country": "Gengar"
     },
     {
         "id": 7,
-        "img": "./images/EC-flag.gif",
-        "country": "Ecuador"
+        "img": "./images/growlithe.png",
+        "country": "Growlithe"
     }, 
     {
         "id": 8,
-        "img": "./images/FR-flag.gif",
-        "country": "France"
+        "img": "./images/kangaskhan.png",
+        "country": "Kangaskhan"
     }, 
     {
         "id": 9,
-        "img": "./images/GM-flag.gif",
-        "country": "Germany"
+        "img": "./images/magikarp.png",
+        "country": "Magikarp"
     }, 
     {
         "id": 10,
-        "img": "./images/IS-flag.gif",
-        "country": "Israel"
+        "img": "./images/mewtwo.png",
+        "country": "Mewtwo"
     }, 
     {
         "id": 11,
-        "img": "./images/KS-flag.gif",
-        "country": "South Korea"
+        "img": "./images/pidgeotto.png",
+        "country": "Pidgeotto"
     }, 
     {
         "id": 12,
-        "img": "./images/RQ-flag.gif",
-        "country": "Puerto Rico"
+        "img": "./images/pikachu.png",
+        "country": "Pikachu"
     }, 
     {
         "id": 13,
-        "img": "./images/JA-flag.gif",
-        "country": "Japan"
+        "img": "./images/psyduck.png",
+        "country": "Psyduck"
     }, 
     {
         "id": 14,
-        "img": "./images/UK-flag.gif",
-        "country": "United Kingdom"
+        "img": "./images/snorlax.png",
+        "country": "Snorlax"
     }, 
     {
         "id": 15,
-        "img": "./images/US-flag.gif",
-        "country": "United States"
+        "img": "./images/squirtle.png",
+        "country": "Squirtle"
     } 
 ]
