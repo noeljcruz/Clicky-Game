@@ -8,10 +8,10 @@ class App extends Component {
 
   state = {
     maps,
-    title: "Flag Memory Game",
+    title: "Pokemon Memory Game",
     score: 0,
     topScore: 0,
-    message: "Click an any flag to start but don't click on it any more than once!",
+    message: "Click any Pokemon to start...but don't choose the same one twice!",
     clicked: []
   }
 
@@ -29,7 +29,7 @@ class App extends Component {
         maps: this.shuffle(this.state.maps),
         score: this.state.score + 1,
         topScore: newscore,
-        message: "Keep going! You're on your way to a new top score!",
+        message: "Keep it up! Gotta catch 'em all!",
         clicked: newClicked
       })
 
@@ -38,7 +38,7 @@ class App extends Component {
       this.setState({
         maps: this.shuffle(this.state.maps),
         score: 0,
-        message: "Oh no! You clicked a flag more than once!",
+        message: "You already caught that Pokemon! Try again.",
         clicked: [],
       });
     }
